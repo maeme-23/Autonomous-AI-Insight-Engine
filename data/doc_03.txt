@@ -1,0 +1,7 @@
+Challenges with REST APIs
+
+- Multiple round trips for complex data
+- Over-fetching or under-fetching data
+- Versioning challenges
+- Rigid endpoint structure
+- Documentation often lags implementation

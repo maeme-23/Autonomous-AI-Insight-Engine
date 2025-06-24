@@ -1,0 +1,7 @@
+API Gateway Use Cases
+
+- Request routing and composition
+- Protocol translation
+- Authentication/authorization
+- Rate limiting
+- Response caching

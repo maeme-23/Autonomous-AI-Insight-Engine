@@ -1,0 +1,15 @@
+# Ignore environment variables file
+.env
+
+# Ignore Python virtual environment
+venv/
+
+
+# __pycache__ and other typical Python stuff
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.sqlite3
+*.log

@@ -1,0 +1,8 @@
+Database Sharding Techniques
+
+- Horizontal partitioning of data
+- Improves read/write performance
+- Enables geographic distribution
+- Implementation challenges:
+	- Complex queries across shards
+	- Transaction management

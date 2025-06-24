@@ -1,0 +1,7 @@
+Containerization Advantages
+
+- Consistent environments across development/production
+- Lightweight compared to VMs
+- Improved resource utilization
+- Fast deployment and scaling
+- Portable across cloud providers

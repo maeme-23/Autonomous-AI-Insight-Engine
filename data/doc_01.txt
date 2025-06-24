@@ -1,0 +1,7 @@
+GraphQL Fundamentals
+
+- Query language for APIs developed by Facebook
+- Clients request exactly the data they need
+- Single endpoint for all operations (queries, mutations)
+- Strongly typed schema defines API capabilities
+- Reduces over-fetching and under-fetching of data

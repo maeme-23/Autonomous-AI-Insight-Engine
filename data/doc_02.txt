@@ -1,0 +1,7 @@
+Microservices Architecture Advantages
+
+- Independent deployment of services
+- Technology heterogeneity across services
+- Improved fault isolation
+- Granular scaling of components
+- Faster development cycles

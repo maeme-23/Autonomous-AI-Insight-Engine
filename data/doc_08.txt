@@ -1,0 +1,7 @@
+JWT Security Best Practices
+
+- Stateless authentication tokens
+- Short expiration times
+- Proper signature verification
+- Avoid storing sensitive data in payload
+- Implement token blacklisting

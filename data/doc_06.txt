@@ -1,0 +1,7 @@
+Continuous Integration/Deployment
+
+- Automated testing with every code commit
+- Faster release cycles
+- Reduced integration problems
+- Rollback capabilities
+- Infrastructure as code integration

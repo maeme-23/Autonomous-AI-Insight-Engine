@@ -1,0 +1,11 @@
+Serverless Architecture Pros/Cons
+
+Pros:
+- No server management
+- Automatic scaling
+- Pay-per-use pricing
+
+Cons:
+- Cold start latency
+- Vendor lock-in risks
+- Debugging challenges
