@@ -83,7 +83,6 @@ REDIS_URL	Redis connection URL	redis://redis:6379
 📂 Project Structure (Key Files)
 
 ├── .env                # Secrets (local only)
-├── docker-compose.yml  # Docker setup
 ├── data/               # Sample documents
 ├── app/                # Core code
 │   ├── main.py         # FastAPI app
